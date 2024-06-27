@@ -25,7 +25,7 @@ BuildRequires:  cmake(Qt6Quick)
 BuildRequires:  cmake(Qt6QuickControls2)
 BuildRequires:  cmake(Qt6Svg)
 BuildRequires:  cmake(Qt6Widgets)
-
+BuildRequires:  cmake(Qt6Test)
 
 %description
 Simple hash validator allowing to compare two files, generate the checksum of a file and verify if a hash matches a file.
