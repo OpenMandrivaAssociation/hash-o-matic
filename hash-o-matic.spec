@@ -18,7 +18,7 @@ BuildRequires:  cmake(KPim6Libkleo)
 BuildRequires:  cmake(Gpgmepp)
 BuildRequires:  cmake(QGpgmeQt6)
 
-BuildRequires:  cmake(QtCore)
+BuildRequires:  cmake(Qt6Core)
 BuildRequires:  cmake(Qt6Gui)
 BuildRequires:  cmake(Qt6Qml)
 BuildRequires:  cmake(Qt6Quick)
